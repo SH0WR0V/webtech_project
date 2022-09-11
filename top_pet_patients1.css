@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    letter-spacing: 0.5px;
+}
+
+#load{
+    cursor: pointer;
+}
+table{
+  
+
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px 3px #b9b9b9;
+    margin: 25px ;
+}
+th{
+    border-bottom: 1px dashed grey;
+    text-align: center;
+    font-size: 16px;
+    padding: 20px;
+    color: grey;
+    
+}
+td{
+    text-align: center;
+    font-size: 15px;
+    padding-right: 10px;
+    padding-bottom: 8px;
+
+    margin-right: 35px;
+    
+}
